@@ -1,0 +1,23 @@
+body {
+background: url(fon2.gif) repeat;
+}
+
+.zagolovok1 {
+	font-family: Arial;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+.text10 {
+text-align: left;
+font-size: 24px;
+}
+
+.text70 {
+width: 480px;
+border: 8px double blue;
+background-color: yellow;
+}

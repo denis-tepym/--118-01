@@ -1,0 +1,29 @@
+body {
+background: url(fon1.gif);
+
+}
+
+.zagolovok1 {
+	font-family:Monotype Corsiva;
+	font-size: 24px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.kartinka1 {
+float: left;
+display: block;
+margin-left: 100px;
+}
+
+.text1 {
+text-align: left;
+font-size: 24px;
+margin-left: 500px;
+}
+.text7 {
+width: 480px;
+border: 4px solid blue;
+background-color: #ffff00;
+}
